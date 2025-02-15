@@ -1,37 +1,68 @@
 # GDG Chennai Hackathon Projects
 
-Welcome to the GDG Chennai Hackathon GitHub repo. Follow these steps to add your project:
+Welcome to the GDG Chennai Hackathon GitHub repo. Follow these steps to add your project.
 
 ## How to Submit Your Project
 
 1. **Create a Folder:**  
-   - Name your folder with your project name.  
-   - Example: `awesome-chat-app`.
+   - Name the folder with your project name (e.g., `awesome-chat-app`).
 
 2. **Add Your Files:**  
-   - Put all project files in the folder.  
-   - Include your code and assets.
+   - Put all your project files inside the folder.  
+   - Include code, assets, etc.
 
 3. **Project README:**  
-   - Inside your project folder, add a README file.  
-   - Use this simple structure:
-     - **Project Title:** Name of your project.
-     - **Description:** Short summary of what your project does.
-     - **Tech Stack:** What tools and libraries you used.
-     - **Team Members:** List names of your teammates.
-     - **Social Profiles:** Links to your LinkedIn or GitHub for each member.
+   - Inside your project folder, include a README file.  
+   - Follow this structure:
+     - **Project Title:** Your project name.
+     - **Description:** A short summary of what your project does.
+     - **Tech Stack:** List of tools and libraries used.
+     - **Team Members:** Names of your teammates.
+     - **Social Profiles:** Links to each member's LinkedIn or GitHub.
      - **Installation & Run:** Simple steps to run your project.
-     - **Screenshots/Demo:** (Optional) Add any images or links to demos.
+     - **Screenshots/Demo:** (Optional) Add images or demo links.
 
 4. **Raise a Pull Request:**  
    - Create a branch and add your folder with files.  
    - Raise a PR to merge your work.  
-   - We will review and merge if it follows the guidelines.
+   - We will review and merge if it meets our guidelines.
 
-## Rules
+## Submission Rules
 
-- Work in teams of up to 4 members.
-- Make sure every project has a clear README.
-- Share your social media links for networking.
+- Teams can have up to 4 members.
+- Every project must have a clear README.
+- Include your social media links for networking.
 
-If you have any questions, just ask. Good luck and happy hacking!
+---
+
+## Sample Project README
+
+Copy and paste the following as your project README, then update it with your details:
+
+````markdown
+# Project Title
+
+## Description
+
+A brief description of what your project does.
+
+## Tech Stack
+
+- Jetpack Compose
+- Android SDK
+- [Other tools or libraries]
+
+## Team Members
+
+- **Name 1** – [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+- **Name 2** – [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+- **Name 3** – [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+- **Name 4** – [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+
+## Installation & Run
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/gdg-chennai/hackathon-projects.git
+   ```
+````
