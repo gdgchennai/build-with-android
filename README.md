@@ -65,4 +65,23 @@ A brief description of what your project does.
    ```bash
    git clone https://github.com/gdg-chennai/hackathon-projects.git
    ```
+
+2. **Open in Android Studio:**
+   - Launch Android Studio
+   - Select "Open an existing project"
+   - Navigate to the cloned project directory and click OK
+   - Wait for the Gradle sync to complete
+
+3. **Run the app:**
+   - Connect an Android device or start an emulator
+   - Click the 'Run' button (green play icon) in the toolbar
+   - Select your device/emulator and click OK
+
+## Minimum Requirements
+
+- Android Studio Hedgehog | 2023.1.1 or higher
+- Minimum SDK: Android 24 (Android 7.0)
+- Target SDK: Android 34 (Android 14)
+- JDK 17
+
 ````
